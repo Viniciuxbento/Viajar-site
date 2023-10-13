@@ -1,0 +1,38 @@
+.containerIMGCR{
+display: flex;
+width: 700px;
+align-items: center;
+justify-content: center;
+margin-top: 100px;
+text-align: center;
+}
+
+
+.cardCR{
+    width: 600px;
+    height: 500px;
+    
+    padding: 20px;
+   
+}
+
+.containerCarouselPrincipal{
+    display: flex;
+    justify-content: space-between;
+    margin: 150px 300px;
+    
+}
+
+.containerH1Carrousel{
+    margin-right: 200px;
+    margin-top: 200px;
+    
+}
+
+.stars{
+    width: 100px;
+}
+
+.containerHotel{
+    text-align: start;
+}

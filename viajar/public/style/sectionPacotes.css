@@ -1,0 +1,72 @@
+.containerPacotesRapidos{
+    background-color: white;
+    margin-top: 100px;
+    border-radius: 15px;
+    height: 100%;
+}
+.containerInternoPacotesRapidos{
+    margin: 0px 200px;
+    padding-top: 20px;
+}
+
+.containerUltimo{
+    display: flex;
+}
+
+.h2Pacote{
+    font-size: 20px;
+    padding: 20px;
+}
+
+.containerPromo{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.buttomPromo{
+    border: none;
+    height: 30px;
+    width: 70px;
+    background-color: green;
+    color: white;
+    border-radius: 50px;
+}
+.imagens{
+    text-align: center;
+    
+}
+
+.imagensPic{
+    padding: 30px 10px;
+}
+
+.containerCours{
+    display: flex;
+    padding: 200px;
+}
+
+.divH1{
+    width: 50%;
+}
+
+.preco{
+    align-self: flex-end;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.pPreco{
+    font-weight: 500;
+}
+.h2Preco{
+    font-weight: 700;
+}
+
+.pData{
+    font-weight: 700;
+    display: flex;
+    
+}
+
